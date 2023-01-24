@@ -27,6 +27,10 @@
 	<!-- sub modules -->
 	<modules>
         <module>core</module>
+        <module>markov</module>
+        <module>syllable</module>
+        <module>rhyme</module>
+        <module>web</module>
     </modules>
 	
 </project>
